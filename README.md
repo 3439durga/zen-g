@@ -1,3 +1,4 @@
+
 # ZEN-G E-Commerce Website
 
 A modern, responsive e-commerce website built with React, Tailwind CSS, Material UI, and Redux.
@@ -79,3 +80,6 @@ The website features a modern design with:
 - Payment gateway integration
 - User authentication system
 - Product reviews and ratings
+
+# zen-g
+Men's shopping
